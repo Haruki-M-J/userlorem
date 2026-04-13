@@ -24,21 +24,23 @@ http://3.27.107.101/
 
 ---
 
-## 📂 ディレクトリ構成
+## ディレクトリ構成
+```
 /var/www/userlorem/
 ├── public/
-│ ├── index.html
-│ ├── script.js
-│ └── style.css
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
 └── api/
-├── db.php
-├── save.php
-├── get.php
-└── delete.php
+    ├── db.php
+    ├── save.php
+    ├── get.php
+    └── delete.php
+```
 
+---
 
-
-##APIについて
+## APIについて
 
 天気取得には以下のAPIを使用している：
 
